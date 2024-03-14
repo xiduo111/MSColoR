@@ -6,4 +6,4 @@ Run example.m to get the results.
 
 Author: Duo Xi
 
-Please contact Lei Du (dulei@nwpu.edu.cn) for any comments or questions.
+Please contact xiduo@amil.nwpu..edu.cn for any comments or questions.
