@@ -1,6 +1,6 @@
 # MSColoR
 
-Identification of genetic risk factors for neurodegenerative disorders using multi-stage longitudinal brain imaging and summary statistics.
+Codes for paper "Multi-stage collaborative learning for disease progression modeling and genetic risk factor identification" 
 
 Run example.m to get the results.
 
